@@ -2,6 +2,8 @@
 
 ## EQUIPO X
 
+Este es un repositorio de prueba.
+
 ## Miembros
 
 - Peteco
