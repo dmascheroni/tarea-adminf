@@ -2,4 +2,7 @@ HOLA
 
 esto es texto en el archivo test.txt 
 
-Otros cambios en el archivo test
+test
+otra cosa que me falto
+
+
